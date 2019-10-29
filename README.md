@@ -11,7 +11,7 @@ This project uses material-ui
 data = '* * * * * * *'
 ```
 ```
-npm i --save react-cron-generator
+npm i --save @dealmeddevs/react-cron-generator
 
 ```
 ## demo
