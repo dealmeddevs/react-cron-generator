@@ -185,7 +185,7 @@ const Cron = (props) => {
             </Grid>
             {(props.showResultText || props.showResultCron) &&
                 <Grid container justify="center" className={classes.displayCard}>
-                    <Grid item xs="3">
+                    <Grid item xs={8} sm={7} lg={4}>
                         <DisplayCard
                             textResult={props.showResultText && getVal()}
                             cronResult={props.showResultCron && value.toString().replace(/,/g, ' ').replace(/!/g, ',')}
