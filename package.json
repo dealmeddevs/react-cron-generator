@@ -1,6 +1,6 @@
 {
   "name": "@dealmeddevs/react-cron-generator",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Simple react component to generate cron expression (Material UI)",
   "publishConfig": {
     "access": "public"
