@@ -32,7 +32,7 @@ const App = (props) => {
     return (
       <div>
         <Cron
-          onChange={(e)=> {setValue(e)); console.log(e)}}
+          onChange={(e)=> {setValue(e); console.log(e)}}
           value={value}
           showResultText={true}
           showResultCron={true}
