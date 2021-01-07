@@ -3,7 +3,7 @@ import Paper from '@material-ui/core/Paper'
 import Radio from '@material-ui/core/Radio'
 import TextField from '@material-ui/core/TextField'
 import FormControlLabel from '@material-ui/core/FormControlLabel'
-import { makeStyles } from '@material-ui/styles'
+import { makeStyles } from '@material-ui/core/styles'
 import StartTime from './chooseTime'
 import Card from './card'
 
